@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ENQUIRE</title>
+ 
+</head>
+<body>
+  <header class="site-header">
+  
+    <nav aria-label="Primary">
+      <ul class="nav">
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="about.html">ABOUT</a></li>
+        <li><a href="services.html">PROGRAMS</a></li>
+        <li><a class="active" href="enquiry.html">EQUIRE</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="prose">
+      <h1>Apply </h1>
+
+      <!-- Simple accessible form -->
+      <form class="form" action="#" method="post">
+        <label>Full Name
+          <input type="text" name="name" required />
+        </label>
+        <label>Email
+          <input type="email" name="email" required />
+        </label>
+        <label>Country
+          <input type="text" name="country" />
+        </label>
+        <label>I'm interested in
+          <select name="interest" required>
+            <option value="">Select an option</option>
+            <option>Scholarships</option>
+            <option>Mentorship</option>
+            <option>Digital Bootcamps</option>
+            
+          </select>
+        </label>
+      
+        <button class="btn" type="submit">Send</button>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>© <span id="year"></span> Bright Africa • NPO</p>
+  </footer>
+  
+</body>
+</html>
