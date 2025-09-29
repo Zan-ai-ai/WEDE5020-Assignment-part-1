@@ -7,7 +7,7 @@ Module: WEDE
 Module Code:5020 
 
 
-1.Organization overview:  
+# 1.Organization overview: # 
 
 Bright Africa (PROPOSAL 1) 
 
@@ -17,11 +17,11 @@ Founded in 2010, Bright Africa is an organization run by a group of young Africa
 
  
 
-Mission: 
+## Mission: ## 
 
 Bright Africa aims to empower underprivileged youth across the African continent to gain access to scholarships, technology training and mentorships which will break poverty cycles and build sustainable futures.  
 
-Vision: 
+## Vision: ##
 
 A community or environment where the African youth, regardless of their background, has the knowledge, skills and opportunities to progress in this technical age.  
 
@@ -29,33 +29,81 @@ A community or environment where the African youth, regardless of their backgrou
 
  
 
-2. Website Goals and Objectives  
+# 2. Website Goals and Objectives # 
 
-GOALS 
+## GOALS ## 
 
-Raise Awareness - provide information to the public on Bright Africa 
+Raise Awareness - provide information to the public on Bright Africa, include it's impact and stories leading to it's success aa well as compelling, accurate information. 
 
-Expand Research - use the website to connect with communities and schools in need of the NPO’s assistance.  
+Expand Research - use the website as a hub to connect with potential partners and donors as well as communities and schools in need of the NPO’s assistance.  
 
-Promotion- promote the NPO’s services. Showcase mentorship/ scholarship opportunities. 
+Promotion- promote the NPO’s services. Showcase mentorship/ scholarship opportunities to encourage the youth and attract partners.
 
- 
+Build and strengthen credibility - build a transperent,trust worthy and resourceful website which will in turn strengthen the relationship with donors,partners and beneficiaries. 
 
-OBJECTIVES 
 
- 
-
-User-friendly website development which includes not more than 5 pages. 
-
-Provide accurate and updated content regarding Bright Africa’s initiatives. 
-
-Make use of visual elements for a clearer and more engaging site.  
-
-Simple navigation and design for both mobile and desktop users.  
 
  
 
-KPI’s 
+## OBJECTIVES ##
+
+ 
+## User-Friendly Website Development ## 
+
+Design a lightweight and responsive website with a maximum of 5 main pages (Home, About, Programs, Get Involved, and Contact).  
+
+Ensure desktop and mobile device compatibility.  
+
+Implement a straightforward navigational schema, ensuring accessibility to all users.  
+
+## Accurate and Updated Content ##
+
+Clearly state Bright Africa's mission, vision, and initiatives, and provide descriptions.  
+
+Update scholarship deadlines, details of programs, and mentorship opportunities frequently.  
+
+Add downloadable content, such as brochures, application forms, and reports.  
+
+## Visual Communication ##
+
+Capture and present high-quality images, graphics, and videos focused on community impact and success stories.  
+
+Visualize data with infographics to depict achievements.  
+
+Show youth and mentor experiences with an integrated testimonial and flip card feature.  
+
+## Technical & Resource Implementation ##
+
+## Frontend: ## HTML, CSS, JavaScript (with frameworks, Bootstrap, TailwindCSS, etc).  
+
+## Backend and Infrastructure: ## 
+
+Secure and reliable hosting (with SSL/ HTTPS).  
+
+Lightweight database (optional, for applications or memberships).  
+
+A Content Management System (CMS) for staff easy updates.  
+
+ ## Additional Resources: ## 
+
+Google Analytics for engagement tracking.  
+
+SEO tools for visibility enhancement.  
+
+Security plugins/firewalls for data protection.
+
+## Engagement and Accessibility ## 
+
+For stakeholders, a contact form and newsletter signup will facilitate communication. 
+
+Action statements will be provided in relation to donations, volunteer signups, and scholarship applications. 
+
+Web accessibility standards (WCAG) will be adopted to cater to a wider audience.
+
+
+
+
+## KPI’s ##
 
  
 
@@ -514,7 +562,7 @@ Statista, 2023.*Number of Internet Users Worldwide from 2005 to 2003.* [online] 
 World Health Organization (WHO), 2020. *Global Strategy on Digital Health 2020-2025.* Geneva: World Health Organization. 
 
 
-
+# ChangeLog #
  
 
  
