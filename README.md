@@ -74,7 +74,9 @@ Show youth and mentor experiences with an integrated testimonial and flip card f
 
 ## Technical & Resource Implementation ##
 
-## Frontend: ## HTML, CSS, JavaScript (with frameworks, Bootstrap, TailwindCSS, etc).  
+## Frontend: ##
+
+HTML, CSS, JavaScript (with frameworks, Bootstrap, TailwindCSS, etc).  
 
 ## Backend and Infrastructure: ## 
 
